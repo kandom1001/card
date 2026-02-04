@@ -37,6 +37,9 @@ const pages = [
     content: (
       <div className="page-content-inner">
         <p>永远做你的小狗</p>
+        <div className="page-photo">
+          <img src="/images/123.jpeg" alt="" />
+        </div>
         <p className="from">汪汪</p>
       </div>
     ),
